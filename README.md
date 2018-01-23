@@ -11,7 +11,7 @@
 ➖➖➖➖➖➖➖➖➖➖➖➖
 🔹 cd $HOME
 ➖➖➖➖➖➖➖➖➖➖➖➖
-🔹 git clone https://github.com/.../rami-api.git
+🔹 git clone https://github.com/rami-api/rami-api.git
 ➖➖➖➖➖➖➖➖➖➖➖➖
 🔹 cd rami-api
 ➖➖➖➖➖➖➖➖➖➖➖➖
@@ -34,4 +34,4 @@ tmux
 ### One command
 لتنصيب السورس بكود واحد  :
 
-cd $HOME && git clone https://github.com/../rami-api.git && cd rami-api && chmod +x rami.sh && ./rami.sh install && ./rami.sh
+cd $HOME && git clone https://github.com/rami-api/rami-api.git && cd rami-api && chmod +x rami.sh && ./rami.sh install && ./rami.sh
